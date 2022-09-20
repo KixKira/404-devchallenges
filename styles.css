@@ -1,0 +1,73 @@
+@import url('https://fonts.googleapis.com/css2?family=Inconsolata:wght@700&family=Montserrat:wght@500&family=Space+Mono:wght@400;700&display=swap');
+
+body {
+    background: rgba(255, 255, 255, 1);
+}
+
+.title {
+    margin-top: 40px;
+    margin-left: 77px;
+    font-family: 'Inconsolata', monospace;
+    font-weight: 700;
+    font-size: 24px;
+}
+
+.content {
+    margin-top: 200px;
+    margin-left: 77px;
+}
+
+#content {
+    width: 50%;
+    float: right;
+}
+
+#scarecrow {
+    width: 50%;
+    float: left;
+}
+
+.scarecrow  {
+    width: 539px;
+    height: 447px;
+}
+
+.bad {
+    font-family: 'Space Mono', monospace;
+    font-weight: 700;
+    font-size: 64px;
+}
+
+.page {
+    font-family: 'Space Mono', monospace;
+    font-weight: 400;
+    font-size: 24px;
+    width: 419px;
+    height: 108px;
+    color: #4f4f4f;
+}
+
+button {
+    width: 216px;
+    height: 68px;
+    background: #333333;
+    border: none;
+    margin-top: 64px;
+    color: #ffffff;
+    font-family: 'Space Mono', monospace;
+    font-weight: 700;
+    font-size: 14px;
+}
+
+.sign {
+    margin-top: 1039px;
+    text-align: center;
+    font-family: 'Montserrat', monospace;
+    font-weight: 500;
+    font-size: 14px;
+    color: #bdbdbd;
+}
+
+a {
+    color: #bdbdbd;
+}
